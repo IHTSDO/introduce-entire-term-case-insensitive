@@ -16,7 +16,7 @@ The algorithm is very simple. When the current case significance of a descriptio
 ## How to use
 You will need Java 1.7 or later.
 
-Download the application jar file or clone this project and compile your own using maven.
+Download the latest application jar file from the [releases page](https://github.com/IHTSDO/introduce-entire-term-case-insensitive/releases) or clone this project and compile your own using maven.
 
 Run the application giving your description RF2 Snapshot as input.
 ```
